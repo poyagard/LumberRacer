@@ -88,7 +88,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.trackBarHorizontal.LargeChange = 50;
             this.trackBarHorizontal.Location = new System.Drawing.Point(6, 386);
-            this.trackBarHorizontal.Maximum = 1000;
+            this.trackBarHorizontal.Maximum = 10000;
             this.trackBarHorizontal.Name = "trackBarHorizontal";
             this.trackBarHorizontal.Size = new System.Drawing.Size(245, 45);
             this.trackBarHorizontal.SmallChange = 10;
