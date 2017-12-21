@@ -101,7 +101,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.trackBarVertical.LargeChange = 50;
             this.trackBarVertical.Location = new System.Drawing.Point(257, 31);
-            this.trackBarVertical.Maximum = 1000;
+            this.trackBarVertical.Maximum = 10000;
             this.trackBarVertical.Name = "trackBarVertical";
             this.trackBarVertical.Orientation = System.Windows.Forms.Orientation.Vertical;
             this.trackBarVertical.Size = new System.Drawing.Size(45, 355);
